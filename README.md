@@ -9,9 +9,10 @@
 </a>
 </div>
 
+I am a final year PhD student with the [CDT in AIMS](https://aims.robots.ox.ac.uk/) (Autonomous Intelligent Machines and Systems), working in the [Control Group](https://eng.ox.ac.uk/control/).
 
 ### What I work on:
-- 🎓 My PhD is on learning dynamical systems with Gaussian Processes, fast, approximate uncertainty propagation, and including qualitative data.  
+- 🎓 My PhD is on system identification with Gaussian Processes, including qualitative data ,and enabling fast and approximate uncertainty propagation.  
 - 🌱 I am a part-time DevOps Freelancer for the startup [PlantingSpace](planting.space), working on CI/CD and monitoring. 
 
 ### Programming and Open-Source
