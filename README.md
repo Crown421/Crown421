@@ -9,6 +9,8 @@
 </a>
 </div>
 
+<br>
+
 I am a final year PhD student with the [CDT in AIMS](https://aims.robots.ox.ac.uk/) (Autonomous Intelligent Machines and Systems), working in the [Control Group](https://eng.ox.ac.uk/control/).
 
 ### What I work on:
