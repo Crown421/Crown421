@@ -14,8 +14,8 @@
 I am a final year PhD student with the [CDT in AIMS](https://aims.robots.ox.ac.uk/) (Autonomous Intelligent Machines and Systems), working in the [Control Group](https://eng.ox.ac.uk/control/).
 
 ### What I work on:
-- 🎓 My PhD is on system identification with Gaussian Processes, including qualitative data ,and enabling fast and approximate uncertainty propagation.  
-- 🌱 I am a part-time DevOps Freelancer for the startup [PlantingSpace](planting.space), working on CI/CD and monitoring. 
+- 🎓 My PhD is on ordinary differential equations (ODEs) with Gaussian Processes and fast approximate uncertainty propagation. (see [GPDiffEq.jl](https://github.com/Crown421/GPDiffEq.jl))
+- 💻 I am an AI resident at [SandboxAQ](https://www.sandboxaq.com/), a spin-out from X, the moonshot factory.
 
 ### Programming and Open-Source
 - I mostly use the [Julia Language](https://julialang.org/)
