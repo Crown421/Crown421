@@ -23,13 +23,15 @@ I am a final year PhD student with the [CDT in AIMS](https://aims.robots.ox.ac.u
 - I maintain the [IntelVectorMath.jl](https://github.com/JuliaMath/IntelVectorMath.jl) package, which was also my first open-source contribution. 
 
 ### Other Interests
-- High Performance Computing: I like making big things run fast, but currently don't have many opportunities. 
+- Home Automation: I like my radiators and lights to operate on their own. 
+- DevOps: I like making my (and others) life easier. 
 
+
+<!--
 
 <a href="https://quine.sh/profile/crown421"><img src="https://stats.quine.sh/crown421/github" alt="crown421's GitHub stats" width="840px"></a>
 
 
-<!--
 **Crown421/Crown421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
