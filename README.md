@@ -1,4 +1,4 @@
-## <div align="center"> I'm Steffen, a machine learning PhD at the University of Oxford </div>  
+## <div align="center"> I'm Steffen, <br>a machine learning PhD at the University of Oxford </div>  
 
 <div align="center">
 <a href="https://twitter.com/crown4211" target="_blank">
